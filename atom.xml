@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://viethope.net/"/>
-  <updated>2016-05-10T14:25:14.000Z</updated>
+  <updated>2016-05-14T17:43:02.000Z</updated>
   <id>http://viethope.net/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tổng hợp các cách truy cập vào Facebook khi bị chặn</title>
+    <link href="http://viethope.net/Khai-Dan-Tri/tong-hop-cac-cach-truy-cap-vao-facebook-khi-bi-chan.html"/>
+    <id>http://viethope.net/Khai-Dan-Tri/tong-hop-cac-cach-truy-cap-vao-facebook-khi-bi-chan.html</id>
+    <published>2016-05-14T17:14:14.000Z</published>
+    <updated>2016-05-14T17:43:02.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Đôi khi việc truy cập vào Facebook gặp khó khăn vì nhiều lý do. Tuy nhiên bạn vẫn có thể truy cập bằng cách sử dụng VPN (Virtual Private Network). VPN không chỉ giúp bạn tăng khả năng bảo mật do mã hóa đường truyền mà còn giúp bạn “vượt tường lửa” dễ dàng.&lt;/p&gt;
+&lt;p&gt;Sau đây xin được tổng hợp các dịch vụ VPN và các giải pháp truy cập “vượt tường lửa” thông dụng có uy tín:&lt;/p&gt;
+&lt;h1 id=&quot;1-Betternet-Chrome-Android-iOS&quot;&gt;&lt;a href=&quot;#1-Betternet-Chrome-Android-iOS&quot; class=&quot;headerlink&quot; title=&quot;1. Betternet (Chrome/Android/iOS)&quot;&gt;&lt;/a&gt;1. Betternet (Chrome/Android/iOS)&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/OSZAYl1.jpg&quot; alt=&quot;Betternet VPN&quot; title=&quot;Betternet VPN&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Betternet là ứng dụng mới nổi gần đây trong việc tạo ra một kết nối an toàn xuyên qua máy chủ của ứng dụng này để truy cập. Sự tiện lợi còn đến từ việc Betternet hỗ trợ gần như đầy đủ các nền tảng thông dụng hiện nay. Mọi người đều có thể sử dụng Betternet mà không cần đăng ký, chỉ cần cài cho Chrome như một extension và bấm connect là xong. Tương tự với Android và iOS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.betternet.co/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Trang chủ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.freevpnintouch&amp;amp;hl=en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/unlimited-free-vpn-by-betternet/id946659216?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;2-Opera-VPN&quot;&gt;&lt;a href=&quot;#2-Opera-VPN&quot; class=&quot;headerlink&quot; title=&quot;2. Opera VPN&quot;&gt;&lt;/a&gt;2. Opera VPN&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Po69VGm.png&quot; alt=&quot;Opera VPN&quot; title=&quot;Opera VPN&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Đây là ứng dụng mới được ra mắt gần đây của Opera, hãng cung cấp trình duyệt Opera miễn phí. Opera VPN hiện tại mới có mặt trên iOS. Ưu điểm của Opera VPN đó là bạn có thể chọn máy chủ ở nhiều nơi (Mỹ, Singapore, Đức,…) để làm điểm trung gian truy cập và hỗ trợ chặn quảng cáo cũng như các script theo dõi thông tin người dùng.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/opera-vpn-free-unlimited-ad/id1080756781?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;3-Opera-Mini&quot;&gt;&lt;a href=&quot;#3-Opera-Mini&quot; class=&quot;headerlink&quot; title=&quot;3. Opera Mini&quot;&gt;&lt;/a&gt;3. Opera Mini&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/NZYxwaJ.png&quot; alt=&quot;Opera Mini&quot; title=&quot;Opera Mini&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Đối với smartphone chạy Android thì cách đơn giản nhất là sử dụng trình duyệt Opera Mini. Trình duyệt này được tích hợp sẵn VPN và bộ nén dung lượng website để tiết kiệm băng thông, giúp bạn truy cập nhanh hơn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.opera.mini.native&amp;amp;hl=en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Opera Mini trên Android&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;4-Tor-Browser&quot;&gt;&lt;a href=&quot;#4-Tor-Browser&quot; class=&quot;headerlink&quot; title=&quot;4. Tor Browser&quot;&gt;&lt;/a&gt;4. Tor Browser&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/e4PoPTg.jpg&quot; alt=&quot;Tor Browser&quot; title=&quot;Tor Browser&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Đây là giải pháp toàn diện nhất về bảo mật và truy cập ẩn danh. Tor là một mạng lưới các máy tính được kết nối toàn cầu. Khi sử dụng Tor Browser, bạn sẽ truy cập thông qua nhiều lớp máy tính trong mạng lưới này trước khi tiếp cận đến trang web. Chính vì vậy bạn có được nhiều lớp bảo mật giúp bạn ẩn danh tốt hơn. Chưa kể Tor Browser được xây dựng dựa trên trình duyệt Firefox với cấu hình bảo mật nghiêm ngặt và nhiều plugin hỗ trợ. Tor Browser có thể chạy trên cả Windows, Mac, Linux.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.torproject.org/projects/torbrowser.html.en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tor Browser&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Đôi khi việc truy cập vào Facebook gặp khó khăn vì nhiều lý do. Tuy nhiên bạn vẫn có thể truy cập bằng cách sử dụng VPN (Virtual Private 
+    
+    </summary>
+    
+      <category term="Khai Dân Trí" scheme="http://viethope.net/categories/Khai-Dan-Tri/"/>
+    
+    
+      <category term="Công nghệ" scheme="http://viethope.net/tags/Cong-nghe/"/>
+    
+      <category term="Mạng xã hội" scheme="http://viethope.net/tags/Mang-xa-hoi/"/>
+    
+  </entry>
   
   <entry>
     <title>Đạo đức và Luân lý Đông Tây - Phan Chu Trinh</title>
